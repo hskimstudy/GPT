@@ -4,5 +4,5 @@ streamlit,
 time,
 speech_recognition,
 streamlit==1.33
-openai,
-requests
+requests,
+openai==1.3.2
