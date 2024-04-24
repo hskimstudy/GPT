@@ -2,4 +2,7 @@ os,
 OpenAI,
 streamlit,
 time,
-speech_recognition
+speech_recognition,
+streamlit==1.33
+openai,
+requests
